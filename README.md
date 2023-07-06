@@ -3,7 +3,7 @@
 <div align="center">
   <img height="80" src="https://github.com/pabloluceroschneider/node-aws-serverless/assets/43233080/454c52dd-1e38-436b-b991-653e3cd3d673" alt="tech" />
 </div>
-
+  
 ### About
 
 This project has been built to show the required skills to develop a serverless API
@@ -11,3 +11,9 @@ This project has been built to show the required skills to develop a serverless 
 ### Author 
 
 [Pablo Schneider](https://www.linkedin.com/in/pabloschneider/)
+
+### Features
+
+- Feature 1
+- Feature 2
+- Feature 3
