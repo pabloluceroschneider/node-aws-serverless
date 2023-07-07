@@ -42,4 +42,8 @@ Permissions Policies
 <br /><br />
 
 Ending
+
 <img width="400" alt="image" src="https://github.com/pabloluceroschneider/node-aws-serverless/assets/43233080/1ced9783-48d0-439a-8edf-813a9ac90315">
+<br /><br />
+
+Download the .csv file
