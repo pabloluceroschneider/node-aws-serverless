@@ -1,6 +1,6 @@
 # Creating an endpoint
 
-Create a serverless endpoint runnning the following command. 
+Create a serverless endpoint by running the following command. 
 
 ```bash
 serverless create -t aws-nodejs --path 3-HelloWorldAPI -n HelloWorldAPI
