@@ -45,3 +45,8 @@ serverless config credentials --provider aws --key {key} --secret {secret}
 
 <img width="400" alt="image" src="https://github.com/pabloluceroschneider/node-aws-serverless/assets/43233080/1ced9783-48d0-439a-8edf-813a9ac90315">
 <br /><br />
+
+
+
+Next
+[Creating an endpoint](https://github.com/pabloluceroschneider/node-aws-serverless/blob/master/docs/creating-an-endpoint.md)
