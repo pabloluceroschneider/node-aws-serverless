@@ -5,7 +5,7 @@ module.exports.ping = async (event) => {
     statusCode: 200,
     body: JSON.stringify(
       {
-        message: 'Go Serverless v1.0! Your function executed successfully!',
+        message: 'Hello World from aws',
         input: event,
       },
       null,
