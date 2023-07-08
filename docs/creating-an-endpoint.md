@@ -41,7 +41,11 @@ serverless invoke --function hello
 <img width="660" alt="image" src="https://github.com/pabloluceroschneider/node-aws-serverless/assets/43233080/90a0bf0c-5f7b-4db2-8a18-8c34734c7a00">
 
 
+### Logs
 
+```bash
+serverless logs -f {function_name} --tail
+```
 
-
+--tail: optional. shows the stack error
 
