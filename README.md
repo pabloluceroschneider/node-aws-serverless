@@ -1,9 +1,8 @@
-<h1 align="center">node-typescript-aws-serverless</h1>
-
 <div align="center">
-  <img height="80" src="https://github.com/pabloluceroschneider/node-aws-serverless/assets/43233080/454c52dd-1e38-436b-b991-653e3cd3d673" alt="tech" />
+  <img height="80" src="https://github.com/pabloluceroschneider/node-aws-serverless/assets/43233080/2f82cbab-a3ac-421e-bae1-13e74576d717" alt="tech" />
 </div>
-  
+<h1 align="center">node-aws-serverless</h1>
+
 ### About
 
 This project has been built to show the required skills to develop a serverless API
