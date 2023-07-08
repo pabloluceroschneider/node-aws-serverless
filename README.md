@@ -1,8 +1,7 @@
-<h1 align="center">node-aws-serverless</h1>
-
 <div align="center">
   <img height="80" src="https://github.com/pabloluceroschneider/node-aws-serverless/assets/43233080/2f82cbab-a3ac-421e-bae1-13e74576d717" alt="tech" />
 </div>
+<h1 align="center">node-aws-serverless</h1>
 
 ### About
 
