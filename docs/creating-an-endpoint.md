@@ -54,3 +54,8 @@ serverless logs -f {function_name} --tail
 
 --tail: optional. shows the stack error
 
+# POST method
+
+https://github.com/pabloluceroschneider/node-aws-serverless/tree/master/4-Post-Method
+
+<img width="859" alt="image" src="https://github.com/pabloluceroschneider/node-aws-serverless/assets/43233080/95a10286-a480-4254-8563-cc1c93843095">
