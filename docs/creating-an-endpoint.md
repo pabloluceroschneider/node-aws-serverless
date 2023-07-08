@@ -23,11 +23,14 @@ Then, deploy it by running this command:
 ```bash
 serverless deploy
 # serverless deploy --verbose  // shows logs of deployment
-# serverless deploy --info     // shows on console the Service Information (region, stage, stack, endpoint, functions)
+# serverless --info            // shows on console the Service Information (region, stage, stack, endpoint, functions)
 ```
 
 <img width="656" alt="image" src="https://github.com/pabloluceroschneider/node-aws-serverless/assets/43233080/631eaa41-7062-4db6-af63-5d278bcba9a0">
+<br />
+<img width="650" alt="image" src="https://github.com/pabloluceroschneider/node-aws-serverless/assets/43233080/bb9d5054-0b3e-4cab-aa24-59b06902ffcb">
 <br /><br />
+
 
 You can make a request from postman:
 
