@@ -6,6 +6,7 @@ module.exports.hello = async (event) => {
     body: JSON.stringify(
       {
         message: 'Hello World from API',
+        params: event.pathParameters.id,
         input: event,
       },
       null,
