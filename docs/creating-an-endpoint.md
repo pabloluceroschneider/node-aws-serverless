@@ -22,8 +22,9 @@ Then, deploy it by running this command:
 
 ```bash
 serverless deploy
+# serverless deploy --verbose  // shows logs of deployment
+# serverless deploy --info     // shows on console the Service Information (region, stage, stack, endpoint, functions)
 ```
---verbose: shows logs of deployment
 
 <img width="656" alt="image" src="https://github.com/pabloluceroschneider/node-aws-serverless/assets/43233080/631eaa41-7062-4db6-af63-5d278bcba9a0">
 <br /><br />
