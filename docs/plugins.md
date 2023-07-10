@@ -1,3 +1,5 @@
+# serverless-offline
+
 Install serverless-offline
 
 ```bash
@@ -18,3 +20,10 @@ Run `serverless offline`
 Now we can test locally
 
 <img width="857" alt="image" src="https://github.com/pabloluceroschneider/node-aws-serverless/assets/43233080/9a65aee7-b37e-4b14-9e9f-0aa48453d627">
+<br /><br />
+
+# moment
+
+```bash
+npm install moment-timezone -s
+```
