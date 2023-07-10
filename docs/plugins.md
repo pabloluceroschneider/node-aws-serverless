@@ -42,3 +42,7 @@ serverless prune -n 2 --dryRun
 ```
 
 See [configuration](https://github.com/pabloluceroschneider/node-aws-serverless/blob/37686c8e226469da0fbd15b5c2c927f5da65e5de/5-Moment/serverless.yml#L11)
+
+
+# include dependencies
+
