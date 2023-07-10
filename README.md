@@ -16,3 +16,4 @@ See the docs
 
 - [Configs](https://github.com/pabloluceroschneider/node-aws-serverless/blob/master/docs/configs.md)
 - [Creating an endpoint](https://github.com/pabloluceroschneider/node-aws-serverless/blob/master/docs/creating-an-endpoint.md)
+- [Plugins](https://github.com/pabloluceroschneider/node-aws-serverless/blob/master/docs/plugins.md)
