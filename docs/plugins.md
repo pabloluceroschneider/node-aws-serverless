@@ -27,3 +27,8 @@ Now we can test locally
 ```bash
 npm install moment-timezone -s
 ```
+
+[5-Moment](https://github.com/pabloluceroschneider/node-aws-serverless/blob/master/5-Moment/handler.js)
+
+<img width="858" alt="image" src="https://github.com/pabloluceroschneider/node-aws-serverless/assets/43233080/325efeff-d39a-475c-a1e4-a6c4450b62f6">
+<br /><br />
