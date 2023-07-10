@@ -8,8 +8,9 @@ module.exports.GetMoment = async (event) => {
     const timeSec = new Date().getTime();    
     const timeTZ = moment.tz(timeSec, 'America/Mexico_City');
     const timeL = moment(timeTZ).format('L');
+    const timell = moment(timeTZ).format('ll');
     const timelll = moment(timeTZ).format('lll');
-    
+
     return {
       statusCode: 200,
       headers: {
@@ -17,7 +18,7 @@ module.exports.GetMoment = async (event) => {
       },
       body: JSON.stringify({
         message: 'OK',
-        data: { timeSec, timeTZ, timeL, timelll },
+        data: { timeSec, timeTZ, timeL, timell, timelll },
       }),
     }
   } catch (error) {
