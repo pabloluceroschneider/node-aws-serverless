@@ -35,7 +35,7 @@ npm install moment-timezone -s
 
 # prune 
 
-See de [serverless-prune-plugin](https://www.serverless.com/plugins/serverless-prune-versions) available
+See the [serverless-prune-plugin](https://www.serverless.com/plugins/serverless-prune-versions) available
 
 ```bash
 serverless prune -n 2 --dryRun
