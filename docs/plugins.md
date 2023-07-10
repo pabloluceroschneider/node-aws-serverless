@@ -32,3 +32,7 @@ npm install moment-timezone -s
 
 <img width="858" alt="image" src="https://github.com/pabloluceroschneider/node-aws-serverless/assets/43233080/325efeff-d39a-475c-a1e4-a6c4450b62f6">
 <br /><br />
+
+# prune 
+
+See de [serverless-prune-plugin](https://www.serverless.com/plugins/serverless-prune-versions) available
