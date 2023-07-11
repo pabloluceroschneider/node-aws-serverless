@@ -52,3 +52,6 @@ npm i serverless-plugin-include-dependencies --save
 
 <img width="487" alt="image" src="https://github.com/pabloluceroschneider/node-aws-serverless/assets/43233080/ff4f026e-2b5b-42f1-a403-bfb177a56fff">
 <br /><br />
+
+<img width="794" alt="image" src="https://github.com/pabloluceroschneider/node-aws-serverless/assets/43233080/b36fcfc5-3d57-4ef6-8095-a147b66f345e">
+<br /><br />
