@@ -46,3 +46,9 @@ See [configuration](https://github.com/pabloluceroschneider/node-aws-serverless/
 
 # include dependencies
 
+```bash
+npm i serverless-plugin-include-dependencies --save
+```
+
+<img width="487" alt="image" src="https://github.com/pabloluceroschneider/node-aws-serverless/assets/43233080/ff4f026e-2b5b-42f1-a403-bfb177a56fff">
+<br /><br />
