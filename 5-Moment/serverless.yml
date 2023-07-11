@@ -7,6 +7,12 @@ provider:
 
 plugins:
   - serverless-prune-versions
+  - serverless-offline
+  - serverless-plugin-include-dependencies
+
+package:
+  exclude:
+    - node_modules/**
 
 custom:
   prune:
