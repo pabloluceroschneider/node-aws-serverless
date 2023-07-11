@@ -55,3 +55,5 @@ npm i serverless-plugin-include-dependencies --save
 
 <img width="794" alt="image" src="https://github.com/pabloluceroschneider/node-aws-serverless/assets/43233080/b36fcfc5-3d57-4ef6-8095-a147b66f345e">
 <br /><br />
+
+1.7 MB < ~28 MB.
