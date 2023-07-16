@@ -29,3 +29,6 @@ CREATE TABLE RDSCurso.USERS (
 
 <img width="600" alt="image" src="https://github.com/pabloluceroschneider/node-aws-serverless/assets/43233080/43442886-8415-4eba-b3e1-97d5ad8b1973">
 <br /><br />
+
+<img width="600" alt="image" src="https://github.com/pabloluceroschneider/node-aws-serverless/assets/43233080/08f4a300-ce1e-4f74-b3a9-09ce35fda37a">
+<br /><br />
