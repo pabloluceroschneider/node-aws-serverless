@@ -19,9 +19,30 @@ provider:
       - subnet-0c668e627418e6ffa
 
 functions:
+  RDSInsert:
+    handler: handlers/handlerInsert.RDSInsert
+    events:
+      - httpApi:
+          path: /RDSConnection/RDSInsert
+          method: post
+  
   RDSTestConnection:
     handler: handlers/handlerRDSTestConnection.RDSTestConnection
     events:
       - httpApi:
           path: /RDSConnection/RDSTestConnection
           method: get
+  
+  RDSUpdate:
+    handler: handlers/handlerUpdate.RDSUpdate
+    events:
+      - httpApi:
+          path: /RDSConnection/RDSUpdate/{id}
+          method: put
+  
+  RDSDelete:
+    handler: handlers/handlerRemove.RDSDelete
+    events:
+      - httpApi:
+          path: /RDSConnection/RDSDelete/{id}
+          method: delete
