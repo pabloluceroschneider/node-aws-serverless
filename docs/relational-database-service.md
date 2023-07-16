@@ -14,4 +14,18 @@
 
 <img width="600" alt="image" src="https://github.com/pabloluceroschneider/node-aws-serverless/assets/43233080/de9aca98-c239-489b-b469-a3e9284b2ff5">
 <img width="600" alt="image" src="https://github.com/pabloluceroschneider/node-aws-serverless/assets/43233080/376aad2e-8730-4c87-9b58-ea5f4b214375">
+<br /><br />
 
+Now we can create some Table
+
+```sql
+CREATE TABLE RDSCurso.USERS (
+	  ID INT NOT NULL AUTO_INCREMENT,
+    USERNAME VARCHAR(255),
+    NAME VARCHAR(255),
+    PRIMARY KEY (ID)
+);
+```
+
+<img width="600" alt="image" src="https://github.com/pabloluceroschneider/node-aws-serverless/assets/43233080/43442886-8415-4eba-b3e1-97d5ad8b1973">
+<br /><br />
