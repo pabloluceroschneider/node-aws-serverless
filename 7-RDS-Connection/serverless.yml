@@ -1,0 +1,27 @@
+service: RDS-Connection
+
+frameworkVersion: "3"
+
+provider:
+  name: aws
+  runtime: nodejs18.x
+
+  vpc:
+    securityGroupIds:
+      - sg-032c221b044390075
+
+    subnetIds:
+      - subnet-0297508d8aabfae7b
+      - subnet-0ffbd18923ce2e38b
+      - subnet-008e6ffdefdad7535
+      - subnet-00fbea2e0fe09c9f1
+      - subnet-0f6f854283f8185ed
+      - subnet-0c668e627418e6ffa
+
+functions:
+  RDSTestConnection:
+    handler: handlers/handlerRDSTestConnection.RDSTestConnection
+    events:
+      - httpApi:
+          path: /RDSConnection/RDSTestConnection
+          method: get
