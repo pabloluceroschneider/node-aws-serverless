@@ -1,1 +1,17 @@
 # RDS: Relational Database Service
+
+<img width="600" alt="image" src="https://github.com/pabloluceroschneider/node-aws-serverless/assets/43233080/5e26deaa-6c24-4e69-b163-00b4bf731b49">
+<br /><br />
+
+### Configure access to RDS
+
+<img width="600" alt="image" src="https://github.com/pabloluceroschneider/node-aws-serverless/assets/43233080/b97f8cdf-a188-49a4-a9a9-f7a05d14c179">
+<img width="600" alt="image" src="https://github.com/pabloluceroschneider/node-aws-serverless/assets/43233080/e14e6659-5a88-4548-9d95-1acd925f9c29">
+<img width="600" alt="image" src="https://github.com/pabloluceroschneider/node-aws-serverless/assets/43233080/78a75431-cd30-449f-b4ef-36a3616c6032">
+<br /><br />
+
+### Connection from MySQL Workbench
+
+<img width="600" alt="image" src="https://github.com/pabloluceroschneider/node-aws-serverless/assets/43233080/de9aca98-c239-489b-b469-a3e9284b2ff5">
+<img width="600" alt="image" src="https://github.com/pabloluceroschneider/node-aws-serverless/assets/43233080/376aad2e-8730-4c87-9b58-ea5f4b214375">
+
