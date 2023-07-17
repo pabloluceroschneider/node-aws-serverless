@@ -23,4 +23,4 @@ This project has been built to show the required skills to develop a serverless 
 Extra links
 - [Using Lambda environment variables](https://docs.aws.amazon.com/lambda/latest/dg/configuration-envvars.html)
 - [Calling DynamoDB from Lambda in Node.js](https://docs.amplify.aws/guides/functions/dynamodb-from-js-lambda/q/platform/js/#scanning-a-table)
-
+- [Building Lambda functions with TypeScript](https://docs.aws.amazon.com/lambda/latest/dg/lambda-typescript.html)
