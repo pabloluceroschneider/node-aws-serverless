@@ -5,7 +5,7 @@
 
 ### About
 
-This project has been built to show the required skills to develop a serverless API
+Project with examples of development of aws lambda functions.
 
 ### Author 
 
