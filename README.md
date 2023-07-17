@@ -11,6 +11,10 @@ Project with examples of development of aws lambda functions.
 
 [Pablo Schneider](https://www.linkedin.com/in/pabloschneider/)
 
+### Cheat Sheet
+
+![aws lambda serverless (7)](https://github.com/pabloluceroschneider/node-aws-serverless/assets/43233080/9deaa1f8-962c-4d87-9358-5b0da4728ae2)
+
 
 ### Features
 
