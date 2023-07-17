@@ -18,3 +18,9 @@ See the docs
 - [Creating an endpoint](https://github.com/pabloluceroschneider/node-aws-serverless/blob/master/docs/creating-an-endpoint.md)
 - [Plugins](https://github.com/pabloluceroschneider/node-aws-serverless/blob/master/docs/plugins.md)
 - [RDS: Relational Database Service](https://github.com/pabloluceroschneider/node-aws-serverless/blob/master/docs/relational-database-service.md)
+
+
+Extra links
+- [Using Lambda environment variables](https://docs.aws.amazon.com/lambda/latest/dg/configuration-envvars.html)
+- [Calling DynamoDB from Lambda in Node.js](https://docs.amplify.aws/guides/functions/dynamodb-from-js-lambda/q/platform/js/#scanning-a-table)
+
