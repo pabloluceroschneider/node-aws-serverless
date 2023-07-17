@@ -12,7 +12,7 @@ This project has been built to show the required skills to develop a serverless 
 [Pablo Schneider](https://www.linkedin.com/in/pabloschneider/)
 
 
-See the docs
+### Features
 
 - [Configs](https://github.com/pabloluceroschneider/node-aws-serverless/blob/master/docs/configs.md)
 - [Creating an endpoint](https://github.com/pabloluceroschneider/node-aws-serverless/blob/master/docs/creating-an-endpoint.md)
