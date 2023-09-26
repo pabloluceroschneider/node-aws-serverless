@@ -6,12 +6,13 @@ provider:
   runtime: nodejs18.x
 
 functions:
-  hello:
-    handler: handler.hello
+  authentication:
+    handler: handler.authentication
     events:
       - httpApi:
-          path: /
-          method: get
+          path: /authentication
+          method: post
 
 plugins:
+  - serverless-offline
   - serverless-plugin-typescript
