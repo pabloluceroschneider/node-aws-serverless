@@ -37,6 +37,8 @@ npm install moment-timezone -s
 
 See the [serverless-prune-plugin](https://www.serverless.com/plugins/serverless-prune-versions) available
 
+This plugin for the Serverless Framework removes old versions of AWS Lambda functions - important because if left to it's own devices each time the Serverless Framework is used to update your Lambda or Lambda Layer code in AWS **it creates a new version**. But if you aren't using the old versions then no harm, no foul - right? Unfortunately not, because for each and every version that's created AWS Lambda stores the source code used by that version for you, and there's a hard limit of **only 75GB available per account** for storage of this source code. By removing old versions this plugin keeps you from hitting this storage limit, letting you worry about features instead of account limits.
+
 ```bash
 serverless prune -n 2 --dryRun
 ```
